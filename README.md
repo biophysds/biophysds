@@ -1,7 +1,7 @@
 # Brandon Imhof
 
-Data Science M.S. student with a background in Physics and ACS-certified Biochemistry.  
-I build reproducible workflows for data cleaning, modeling, scientific computing, and technical reporting using Python, R, SQL, C++/ROOT, and Jupyter.
+Data Science M.S. student with a background in physics and ACS-certified biochemistry.  
+I build reproducible workflows for data cleaning, modeling, scientific computing, and technical reporting using Python, R, SQL, `C++/ROOT`, and Jupyter.
 
 ## About Me
 
@@ -11,7 +11,7 @@ My background includes research experience in particle physics, numerical simula
 
 ## Technical Skills
 
-**Programming:** Python, R, SQL, C++, Java, Bash, HTML/CSS  
+**Programming:** Python, R, SQL, `C++`, Java, Bash, HTML/CSS  
 **Data Science:** Pandas, NumPy, scikit-learn, XGBoost, SVM, regression, classification, clustering, cross-validation  
 **Scientific Computing:** ROOT, Jupyter, LaTeX, Mathematica  
 **Databases:** SQLite, DuckDB, SQL schema design, normalization, query optimization basics  
@@ -19,7 +19,7 @@ My background includes research experience in particle physics, numerical simula
 **Cloud / Backend:** Cloudflare Pages, Workers, D1, R2  
 **Bioinformatics:** FASTA parsing, protein sequence preprocessing, computational biology fundamentals  
 
-## Featured Portfolio Projects
+## Portfolio Projects I’m Building
 
 These repositories are being built as polished examples of my coding, analysis, and documentation skills.
 
