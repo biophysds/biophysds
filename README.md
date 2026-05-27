@@ -21,11 +21,9 @@ My background includes research experience in particle physics, numerical simula
 
 ## Portfolio Projects I’m Building
 
-These repositories are being built as polished examples of my coding, analysis, and documentation skills.
-
 | Project | Main Skills | Description |
 |---|---|---|
-| Neutrino Energy Estimation | C++, ROOT, Python, scientific computing | ROOT-based analysis workflow for simulated neutrino energy reconstruction and visualization |
+| Neutrino Energy Estimation | `C++`, ROOT, Python, scientific computing | ROOT-based analysis workflow for simulated neutrino energy reconstruction and visualization |
 | FASTA Protein Sequence Pipeline | Python, SQL, bioinformatics | Parses FASTA files, stores amino acid sequence data, and prepares sequence features for analysis |
 | NYC Taxi Temporal Analysis | Python, SQL, DuckDB, visualization | Analyzes January 2009 NYC taxi trip records by hour, day, and time-based patterns |
 | Ozone GAM Model Comparison | R, regression, GAMs, cross-validation | Compares linear, polynomial, and generalized additive models for ozone prediction |
@@ -41,5 +39,5 @@ These repositories are being built as polished examples of my coding, analysis, 
 
 ## Contact
 
-**GitHub:** https://github.com/biophysds  
+**GitHub:** [github.com/biophysds](https://github.com/biophysds)
 **LinkedIn:** www.linkedin.com/in/brandon-imhof-625b0b344
