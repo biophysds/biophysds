@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-biophysds-181717?style=for-the-badge&logo=github)](https://github.com/biophysds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-imhof-625b0b344/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com:9443/views/TableauTask_17940250756890/DashboardF?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/brandon.imhof)
 
 ---
 
@@ -72,7 +72,7 @@ I am also expanding my work into deep learning, AI agents, and retrieval-augment
 |---|---|---|
 | **BRFSS Heart Disease Prediction** | R, Random Forest, XGBoost, Logistic Regression | Machine learning classification, temporal validation, model evaluation |
 | **Hurricane Katrina Impact Analysis** | Python, Pandas, Statistical Modeling | Multi-source data integration, hurricane severity, exposure and vulnerability |
-| **[Customer Service Analytics Dashboard](https://public.tableau.com:9443/views/TableauTask_17940250756890/DashboardF?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Tableau, Excel, Data Visualization | Operational performance, interactive dashboards, business analytics |
+| **[Customer Service Analytics Dashboard](https://public.tableau.com/app/profile/brandon.imhof)** | Tableau, Excel, Data Visualization | Interactive dashboards, operational performance, business analytics |
 | **Neutrino Energy Reconstruction** | C++, ROOT, Python | Particle physics, CCQE energy estimation, scientific computing |
 | **FASTA Bioinformatics Pipeline** | Python, R, SQL | Biological sequence processing, data organization, computational biology |
 
@@ -151,4 +151,4 @@ My interests include opportunities involving:
 
 **LinkedIn:** [Brandon Imhof](https://www.linkedin.com/in/brandon-imhof-625b0b344/)
 
-**Tableau:** [View Dashboard](https://public.tableau.com:9443/views/TableauTask_17940250756890/DashboardF?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Tableau Public:** [Brandon Imhof — Data Visualization Portfolio](https://public.tableau.com/app/profile/brandon.imhof)
